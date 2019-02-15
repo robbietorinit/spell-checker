@@ -1,0 +1,16 @@
+{
+    "name": "robin/spellchecker",
+    "description": "Package which compares each word with a known list of correctly spelled words (i.e. a dictionary)",
+    "authors": [
+        {
+            "name": "Robin Sharma",
+            "email": "robinsharma2109@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Robin\\spellchecker\\": "src/"
+        }
+    }
+}
